@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hex Based MC.Plugins", "Hex Based MC.Plugins.csproj", "{8D8A04E7-D1F6-3390-05F5-670A58293F8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hex Based MC", "Hex Based MC.csproj", "{AD894F59-388F-D993-95A4-FD83B7253532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hex Based MC.Editor.Plugins", "Hex Based MC.Editor.Plugins.csproj", "{C50F3C1B-7AAA-71ED-914D-6B77A251FCC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D8A04E7-D1F6-3390-05F5-670A58293F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D8A04E7-D1F6-3390-05F5-670A58293F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D8A04E7-D1F6-3390-05F5-670A58293F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D8A04E7-D1F6-3390-05F5-670A58293F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD894F59-388F-D993-95A4-FD83B7253532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD894F59-388F-D993-95A4-FD83B7253532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD894F59-388F-D993-95A4-FD83B7253532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD894F59-388F-D993-95A4-FD83B7253532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C50F3C1B-7AAA-71ED-914D-6B77A251FCC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50F3C1B-7AAA-71ED-914D-6B77A251FCC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50F3C1B-7AAA-71ED-914D-6B77A251FCC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50F3C1B-7AAA-71ED-914D-6B77A251FCC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
